@@ -4,8 +4,7 @@
 - 👨‍💻 Estou criando meu portifólio e adquirindo experiências.
 - 📫 Me mande um e-mail para entrar em contato: arthurbeulke@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beulke-Dono&show_icons=true&theme=radical) <img aling='center' height='200' widht='200' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain-wordmark.svg" />
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beulke-Dono&show_icons=true&theme=radical) 
 # Linguagens:
 <div style='display: inline_block'><br>
   <img aling='center' height='50' widht='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
